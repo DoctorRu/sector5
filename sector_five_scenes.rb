@@ -159,7 +159,7 @@ class SectorFive < Gosu::Window
             explosion.draw
         end
 
-        @font.draw("E #{@enemies.count} B #{@bullets.count} EX #{@explosions.count} PA #{@player.angle}", 600, 20, 50)
+        @font.draw("debug Enemies #{@enemies.count} Bullets #{@bullets.count} Explosions #{@explosions.count}", 450q, 20, 50)
     end
 
     def draw_end

@@ -6,3 +6,5 @@ GUI: Gosu
 
 Based on a Tutorial by Mark Sobkowicz
 https://github.com/chongkim/ttt-ruby-gosu
+
+ruby sector_five_scenes.rb 
