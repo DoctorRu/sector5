@@ -1,10 +1,10 @@
 # sector5
-
-Game: Sector Five 
-Language: Ruby
-GUI: Gosu
-
-Based on a Tutorial by Mark Sobkowicz
-https://github.com/chongkim/ttt-ruby-gosu
-
+<br>
+Game: Sector Five <br>
+Language: Ruby<br>
+GUI: Gosu<br>
+<br>
+Based on a Tutorial by Mark Sobkowicz<br>
+https://github.com/chongkim/ttt-ruby-gosu<br>
+<br>
 ruby sector_five_scenes.rb 
