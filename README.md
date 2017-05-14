@@ -8,4 +8,4 @@ Based on a Tutorial by Mark Sobkowicz<br>
 <br>
 run game: ruby sector_five_scenes.rb 
 <br>
-![alt tag](https://raw.githubusercontent.com/doctorru/sector5/master/screenshot.png)
+![alt tag](https://raw.githubusercontent.com/doctorru/sector5/master/screenshot.png)doc
