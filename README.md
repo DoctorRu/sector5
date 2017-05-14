@@ -7,4 +7,4 @@ GUI: Gosu<br>
 Based on a Tutorial by Mark Sobkowicz<br>
 https://github.com/chongkim/ttt-ruby-gosu<br>
 <br>
-ruby sector_five_scenes.rb 
+run game: ruby sector_five_scenes.rb 
